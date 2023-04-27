@@ -1,0 +1,23 @@
+/* Write your code here. */
+.thumbnailImage {
+  width: 100px;
+  height: 100px;
+  border-radius: 23px;
+  margin: 5px;
+  background-color: transparent;
+}
+.image-item-details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+}
+.button {
+  border: none;
+  cursor: pointer;
+  outline: none;
+  opacity: 0.4;
+}
+.classStyle {
+  opacity: 1;
+}
